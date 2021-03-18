@@ -1,2 +1,3 @@
-# transform-2021-hackathon
-Transform 2021 Hackathon
+# Transform 2021 Hackathon
+
+Main repo for the Hackathon of Transform 2021
